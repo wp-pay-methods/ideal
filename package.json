@@ -1,0 +1,22 @@
+{
+  "name": "@wp-pay-methods/ideal",
+  "version": "1.0.0",
+  "description": "iDEAL payment method for the WordPress payment processing library.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wp-pay-methods/ideal.git"
+  },
+  "keywords": [
+    "ideal"
+  ],
+  "author": {
+    "name": "Pronamic",
+    "email": "info@pronamic.nl",
+    "url": "http://www.pronamic.nl/"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/wp-pay-methods/ideal/issues"
+  },
+  "homepage": "https://github.com/wp-pay-methods/ideal#readme"
+}
